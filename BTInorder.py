@@ -10,10 +10,18 @@ class TreeNode:
         self.right = right
 
 
-def bt_inorder(rooot: Optional[TreeNode]):
+def bt_inorder(root: Optional[TreeNode]):
     res = []
     stack = []
     curr = root
+    while curr or stack:
+        while curr:
+            stack.append(curr)
+            curr = curr.left
+        curr = stack.pop()
+        res.append(curr.val)
+        curr = curr.right
+    return res
 
 
 
