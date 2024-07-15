@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solutions">
-      <change beforePath="$PROJECT_DIR$/BTInorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/BTInorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPowerOfTwo.231.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTInorder.py" beforeDir="false" afterPath="$PROJECT_DIR$/BTInorder.94.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
     "Python.BTInorder.executor": "Run",
     "Python.RemoveElement.executor": "Run",
     "Python.container.executor": "Run",
+    "Python.isPowerOfTwo.231.executor": "Run",
     "Python.letterCombination17.executor": "Run",
     "Python.main.executor": "Run",
     "Python.maxRows.executor": "Run",
@@ -125,7 +128,7 @@
       <workItem from="1720872991397" duration="7779000" />
       <workItem from="1721037726843" duration="69000" />
       <workItem from="1721037803018" duration="146000" />
-      <workItem from="1721037958453" duration="4302000" />
+      <workItem from="1721037958453" duration="4753000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode solutions">
       <option name="closed" value="true" />
@@ -151,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721046284501</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leetcode solutions">
+      <option name="closed" value="true" />
+      <created>1721046362248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721046362248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +180,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$BTInorder.coverage" NAME="BTInorder Coverage Results" MODIFIED="1721043753716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$3sum.coverage" NAME="3sum Coverage Results" MODIFIED="1720873035126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1720874442789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$isPowerOfTwo_231.coverage" NAME="isPowerOfTwo.231 Coverage Results" MODIFIED="1721046644958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$main.coverage" NAME="main Coverage Results" MODIFIED="1721038429867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$maxRows.coverage" NAME="maxRows Coverage Results" MODIFIED="1720813235970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
