@@ -7,5 +7,5 @@ def container (h):
                 if area > max:
                     max = area
     print(max)
-height = input().strip('[').strip(']').split(',')
-container(height)
+# height = input().strip('[').strip(']').split(',')
+container([1,8,6,2,5,4,8,3,7])
