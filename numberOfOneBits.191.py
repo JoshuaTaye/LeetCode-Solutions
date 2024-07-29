@@ -14,7 +14,6 @@ def hamming_weight(n: int):
         if difference > 0:
             k = 0
             while k < difference:
-                print(k, difference)
                 if 2 ** k == difference:
                     index = i - k - 1
                     final[index] = 1
@@ -26,18 +25,19 @@ def hamming_weight(n: int):
                 if (2 ** k) > difference:
                     index = -1 * k
                     difference = difference - (2 ** (k - 1))
-                    print(difference, "difference")
                     final[index] = 1
                     k = 0
-                    print(final)
                 else:
                     k += 1
-    count = 0
-    for i in final:
-        if i == 1:
-            count += 1
-    return count
+            print(final)
+    # count = 0
+    # for i in final:
+    #     if i == 1:
+    #         count += 1
+    # return count
+
+    return final
 
 
 # num = int(input())
-print(hamming_weight(15))
+print(hamming_weight(561))
