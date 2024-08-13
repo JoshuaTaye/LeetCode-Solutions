@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solutions">
-      <change afterPath="$PROJECT_DIR$/multiplyStrings.43.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solutions #43">
+      <change beforePath="$PROJECT_DIR$/multiplyStrings.43.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiplyStrings.43.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,42 +36,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.3sum.executor": "Run",
-    "Python.BTInorder.executor": "Run",
-    "Python.RemoveElement.executor": "Run",
-    "Python.addDigits.258.executor": "Run",
-    "Python.climbingStairs.70.executor": "Run",
-    "Python.combinationSum.39.executor": "Run",
-    "Python.container.executor": "Run",
-    "Python.divideIntegers.29.executor": "Run",
-    "Python.fillingBookcaseShelves.1105.executor": "Run",
-    "Python.indexOfFirstOccurence.28.executor": "Run",
-    "Python.isPowerOfTwo.231.executor": "Run",
-    "Python.letterCombination17.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.maxRows.executor": "Run",
-    "Python.multiplyStrings.43.executor": "Run",
-    "Python.numberOfOneBits.191.executor": "Run",
-    "Python.pascalsTriangel.118.executor": "Run",
-    "Python.removeDuplicates.executor": "Run",
-    "Python.seacrhInsertPosition.35.executor": "Run",
-    "Python.twoSum2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.3sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTInorder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.addDigits.258.executor&quot;: &quot;Run&quot;,
+    &quot;Python.climbingStairs.70.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combinationSum.39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.container.executor&quot;: &quot;Run&quot;,
+    &quot;Python.divideIntegers.29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fillingBookcaseShelves.1105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indexOfFirstOccurence.28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isPowerOfTwo.231.executor&quot;: &quot;Run&quot;,
+    &quot;Python.letterCombination17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maxRows.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplyStrings.43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberOfOneBits.191.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pascalsTriangel.118.executor&quot;: &quot;Run&quot;,
+    &quot;Python.removeDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seacrhInsertPosition.35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.twoSum2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="Leetcode" is-module-sdk="true">
@@ -151,6 +150,7 @@
       <workItem from="1723194175699" duration="77000" />
       <workItem from="1723194262124" duration="2999000" />
       <workItem from="1723383131334" duration="5534000" />
+      <workItem from="1723550590617" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode solutions">
       <option name="closed" value="true" />
@@ -248,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723197605110</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="leetcode solutions #43">
+      <option name="closed" value="true" />
+      <created>1723550629709</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723550629709</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +265,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="leetcode solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode solutions" />
+    <MESSAGE value="leetcode solutions #43" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode solutions #43" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode$RemoveElement.coverage" NAME="RemoveElement Coverage Results" MODIFIED="1720875769685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

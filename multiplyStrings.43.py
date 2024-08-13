@@ -10,10 +10,6 @@ def multiply_strings(s1, s2):
     for j in range(len(s2)):
         n2 += int(s2[j]) * zeros2
         zeros2 = zeros2 // 10
-    print(n1)
-    print(s1)
-    print(n2)
-    print(s2)
     multiple = n1 * n2
     return str(multiple)
 
