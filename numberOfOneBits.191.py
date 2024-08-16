@@ -35,7 +35,7 @@ def hamming_weight(n: int):
     #     if i == 1:
     #         count += 1
     # return count
-
+    print(final)
     return final
 
 
