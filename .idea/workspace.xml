@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solution #151">
-      <change afterPath="$PROJECT_DIR$/produchExceptSelf.238.py" afterDir="false" />
+    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solution #238">
+      <change afterPath="$PROJECT_DIR$/moveZeros.283.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +83,7 @@
     "Python.main.executor": "Run",
     "Python.maxRows.executor": "Run",
     "Python.mergeStringsAlternatively.1768.executor": "Run",
+    "Python.moveZeros.283.executor": "Run",
     "Python.multiplyStrings.43.executor": "Run",
     "Python.numberOfOneBits.191.executor": "Run",
     "Python.pascalsTriangel.118.executor": "Run",
@@ -200,7 +201,7 @@
       <workItem from="1724264716846" duration="49000" />
       <workItem from="1724656192293" duration="98000" />
       <workItem from="1724694885610" duration="5441000" />
-      <workItem from="1724740420039" duration="4119000" />
+      <workItem from="1724740420039" duration="4593000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode solutions">
       <option name="closed" value="true" />
@@ -394,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724744840180</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="leetcode solution #238">
+      <option name="closed" value="true" />
+      <created>1724745907834</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1724745907834</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,9 +422,11 @@
     <MESSAGE value="leetcode solution #605" />
     <MESSAGE value="leetcode solution #345" />
     <MESSAGE value="leetcode solution #151" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode solution #151" />
+    <MESSAGE value="leetcode solution #238" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode solution #238" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode$moveZeros_283.coverage" NAME="moveZeros.283 Coverage Results" MODIFIED="1724746107945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$mergeStringsAlternatively_1768.coverage" NAME="mergeStringsAlternatively.1768 Coverage Results" MODIFIED="1723887427935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$RemoveElement.coverage" NAME="RemoveElement Coverage Results" MODIFIED="1720875769685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$isPowerOfTwo_231.coverage" NAME="isPowerOfTwo.231 Coverage Results" MODIFIED="1721046832188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -435,7 +446,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$twoSum2.coverage" NAME="twoSum2 Coverage Results" MODIFIED="1723803137299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$numberOfOneBits_191.coverage" NAME="numberOfOneBits.191 Coverage Results" MODIFIED="1723967275381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$combinationSum_39.coverage" NAME="combinationSum.39 Coverage Results" MODIFIED="1722254331536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$produchExceptSelf_238.coverage" NAME="produchExceptSelf.238 Coverage Results" MODIFIED="1724745746447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$produchExceptSelf_238.coverage" NAME="produchExceptSelf.238 Coverage Results" MODIFIED="1724745842656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$climbingStairs_70.coverage" NAME="climbingStairs.70 Coverage Results" MODIFIED="1722940669711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$BTInorder.coverage" NAME="BTInorder Coverage Results" MODIFIED="1721043753716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$reverseBits_190.coverage" NAME="reverseBits.190 Coverage Results" MODIFIED="1723833737452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
