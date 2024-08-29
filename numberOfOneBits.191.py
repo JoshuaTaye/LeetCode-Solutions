@@ -30,12 +30,12 @@ def hamming_weight(n: int):
                 else:
                     k += 1
             print(final)
-    # count = 0
-    # for i in final:
-    #     if i == 1:
-    #         count += 1
-    # return count
-    print(final)
+    count = 0
+    for i in final:
+        if i == 1:
+            count += 1
+    return count
+    # print(final)
     return final
 
 
