@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solution #933">
-      <change afterPath="$PROJECT_DIR$/containsDuplicate.217.py" afterDir="false" />
+    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solution 724">
       <change afterPath="$PROJECT_DIR$/countingBits.338.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numberOfOneBits.191.py" beforeDir="false" afterPath="$PROJECT_DIR$/numberOfOneBits.191.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produchExceptSelf.238.py" beforeDir="false" afterPath="$PROJECT_DIR$/productExceptSelf.238.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,63 +61,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.3sum.executor": "Run",
-    "Python.BTInorder.executor": "Run",
-    "Python.RemoveElement.executor": "Run",
-    "Python.addDigits.258.executor": "Run",
-    "Python.canPlaceFlowers.605.executor": "Run",
-    "Python.climbingStairs.70.executor": "Run",
-    "Python.combinationSum.39.executor": "Run",
-    "Python.container.executor": "Run",
-    "Python.containsDuplicate.217.executor": "Run",
-    "Python.countKConstraintSubstrings.executor": "Run",
-    "Python.countingBits.338.executor": "Run",
-    "Python.divideIntegers.29.executor": "Run",
-    "Python.fillingBookcaseShelves.1105.executor": "Run",
-    "Python.findDifference.2215.executor": "Run",
-    "Python.findMaxAverage.643.executor": "Run",
-    "Python.greatestCommonDivisorOfStrings.1071.executor": "Run",
-    "Python.highestAltitude.1732.executor": "Run",
-    "Python.indexOfFirstOccurence.28.executor": "Run",
-    "Python.isPowerOfTwo.231.executor": "Run",
-    "Python.isSubsequence.392.executor": "Run",
-    "Python.isomrphicStrings.205.executor": "Run",
-    "Python.kidsWithCandies.1431.executor": "Run",
-    "Python.letterCombination17.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.maxRows.executor": "Run",
-    "Python.mergeStringsAlternatively.1768.executor": "Run",
-    "Python.moveZeros.283.executor": "Run",
-    "Python.multiplyStrings.43.executor": "Run",
-    "Python.numberOfOneBits.191.executor": "Run",
-    "Python.pascalsTriangel.118.executor": "Run",
-    "Python.produchExceptSelf.238.executor": "Run",
-    "Python.recentCounter.933.executor": "Run",
-    "Python.removeDuplicates.executor": "Run",
-    "Python.reverseBits.190.executor": "Run",
-    "Python.reverseVowels.345.executor": "Run",
-    "Python.reverseWords.151.executor": "Run",
-    "Python.scoreOfAString.3110.executor": "Run",
-    "Python.seacrhInsertPosition.35.executor": "Run",
-    "Python.twoSum2.executor": "Run",
-    "Python.uglyNumber.263.executor": "Run",
-    "Python.uniqueOccurences.1207.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/python extra",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.3sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTInorder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.addDigits.258.executor&quot;: &quot;Run&quot;,
+    &quot;Python.canPlaceFlowers.605.executor&quot;: &quot;Run&quot;,
+    &quot;Python.climbingStairs.70.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combinationSum.39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.container.executor&quot;: &quot;Run&quot;,
+    &quot;Python.containsDuplicate.217.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countKConstraintSubstrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.countingBits.338.executor&quot;: &quot;Run&quot;,
+    &quot;Python.divideIntegers.29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fillingBookcaseShelves.1105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findDifference.2215.executor&quot;: &quot;Run&quot;,
+    &quot;Python.findMaxAverage.643.executor&quot;: &quot;Run&quot;,
+    &quot;Python.greatestCommonDivisorOfStrings.1071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.highestAltitude.1732.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indexOfFirstOccurence.28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isPowerOfTwo.231.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isSubsequence.392.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isomrphicStrings.205.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kidsWithCandies.1431.executor&quot;: &quot;Run&quot;,
+    &quot;Python.letterCombination17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.longestOnes.1004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maxRows.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mergeStringsAlternatively.1768.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moveZeros.283.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplyStrings.43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberOfOneBits.191.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pascalsTriangel.118.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pivotIndex.724.executor&quot;: &quot;Run&quot;,
+    &quot;Python.produchExceptSelf.238.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recentCounter.933.executor&quot;: &quot;Run&quot;,
+    &quot;Python.removeDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverseBits.190.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverseVowels.345.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverseWords.151.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scoreOfAString.3110.executor&quot;: &quot;Run&quot;,
+    &quot;Python.seacrhInsertPosition.35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.twoSum2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uglyNumber.263.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uniqueOccurences.1207.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vowelSubarray.1456.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/python extra&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="Leetcode" is-module-sdk="true">
@@ -164,8 +166,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
-        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -214,7 +216,13 @@
       <workItem from="1724740420039" duration="12514000" />
       <workItem from="1724843843397" duration="2138000" />
       <workItem from="1724859539385" duration="6738000" />
-      <workItem from="1724936979344" duration="604000" />
+      <workItem from="1724936979344" duration="5532000" />
+      <workItem from="1724998480836" duration="990000" />
+      <workItem from="1724999550134" duration="1149000" />
+      <workItem from="1725001493283" duration="14113000" />
+      <workItem from="1725038247553" duration="5529000" />
+      <workItem from="1725090816431" duration="47000" />
+      <workItem from="1725090880693" duration="6173000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode solutions">
       <option name="closed" value="true" />
@@ -480,7 +488,39 @@
       <option name="project" value="LOCAL" />
       <updated>1724865175717</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="leetcode solution #217">
+      <option name="closed" value="true" />
+      <created>1724937609244</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1724937609244</updated>
+    </task>
+    <task id="LOCAL-00035" summary="leetcode solution #1456">
+      <option name="closed" value="true" />
+      <created>1724961301785</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1724961301785</updated>
+    </task>
+    <task id="LOCAL-00036" summary="leetcode solution #1004">
+      <option name="closed" value="true" />
+      <created>1725038014358</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1725038014358</updated>
+    </task>
+    <task id="LOCAL-00037" summary="leetcode solution 724">
+      <option name="closed" value="true" />
+      <created>1725100177710</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1725100177710</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +547,11 @@
     <MESSAGE value="leetcode solution #2215" />
     <MESSAGE value="leetcode solution #1207" />
     <MESSAGE value="leetcode solution #933" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode solution #933" />
+    <MESSAGE value="leetcode solution #217" />
+    <MESSAGE value="leetcode solution #1456" />
+    <MESSAGE value="leetcode solution #1004" />
+    <MESSAGE value="leetcode solution 724" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode solution 724" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode$moveZeros_283.coverage" NAME="moveZeros.283 Coverage Results" MODIFIED="1724746966168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -529,11 +573,13 @@
     <SUITE FILE_PATH="coverage/Leetcode$containsDuplicate_217.coverage" NAME="containsDuplicate.217 Coverage Results" MODIFIED="1724937467308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$addDigits_258.coverage" NAME="addDigits.258 Coverage Results" MODIFIED="1723196019118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$container.coverage" NAME="container Coverage Results" MODIFIED="1720877526529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$pivotIndex_724.coverage" NAME="pivotIndex.724 Coverage Results" MODIFIED="1725100111549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$canPlaceFlowers_605.coverage" NAME="canPlaceFlowers.605 Coverage Results" MODIFIED="1723982186399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$main.coverage" NAME="main Coverage Results" MODIFIED="1721038429867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$reverseVowels_345.coverage" NAME="reverseVowels.345 Coverage Results" MODIFIED="1723983002337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$isSubsequence_392.coverage" NAME="isSubsequence.392 Coverage Results" MODIFIED="1724748215239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$twoSum2.coverage" NAME="twoSum2 Coverage Results" MODIFIED="1723803137299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$vowelSubarray_1456.coverage" NAME="vowelSubarray.1456 Coverage Results" MODIFIED="1724958986125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$numberOfOneBits_191.coverage" NAME="numberOfOneBits.191 Coverage Results" MODIFIED="1724910005439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$combinationSum_39.coverage" NAME="combinationSum.39 Coverage Results" MODIFIED="1722254331536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$produchExceptSelf_238.coverage" NAME="produchExceptSelf.238 Coverage Results" MODIFIED="1724745842656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -547,6 +593,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$countKConstraintSubstrings.coverage" NAME="countKConstraintSubstrings Coverage Results" MODIFIED="1724704466704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$letterCombination17.coverage" NAME="letterCombination17 Coverage Results" MODIFIED="1723884860071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$reverseWords_151.coverage" NAME="reverseWords.151 Coverage Results" MODIFIED="1724744793202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$longestOnes_1004.coverage" NAME="longestOnes.1004 Coverage Results" MODIFIED="1725037802641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$3sum.coverage" NAME="3sum Coverage Results" MODIFIED="1720873035126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$divideIntegers_29.coverage" NAME="divideIntegers.29 Coverage Results" MODIFIED="1722246318627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$fillingBookcaseShelves_1105.coverage" NAME="fillingBookcaseShelves.1105 Coverage Results" MODIFIED="1722935803129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
