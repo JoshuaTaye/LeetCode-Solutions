@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solution 724">
+    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solution 238">
       <change afterPath="$PROJECT_DIR$/countingBits.338.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxOperations.1679.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produchExceptSelf.238.py" beforeDir="false" afterPath="$PROJECT_DIR$/productExceptSelf.238.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,66 +61,67 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.3sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BTInorder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RemoveElement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.addDigits.258.executor&quot;: &quot;Run&quot;,
-    &quot;Python.canPlaceFlowers.605.executor&quot;: &quot;Run&quot;,
-    &quot;Python.climbingStairs.70.executor&quot;: &quot;Run&quot;,
-    &quot;Python.combinationSum.39.executor&quot;: &quot;Run&quot;,
-    &quot;Python.container.executor&quot;: &quot;Run&quot;,
-    &quot;Python.containsDuplicate.217.executor&quot;: &quot;Run&quot;,
-    &quot;Python.countKConstraintSubstrings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.countingBits.338.executor&quot;: &quot;Run&quot;,
-    &quot;Python.divideIntegers.29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fillingBookcaseShelves.1105.executor&quot;: &quot;Run&quot;,
-    &quot;Python.findDifference.2215.executor&quot;: &quot;Run&quot;,
-    &quot;Python.findMaxAverage.643.executor&quot;: &quot;Run&quot;,
-    &quot;Python.greatestCommonDivisorOfStrings.1071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.highestAltitude.1732.executor&quot;: &quot;Run&quot;,
-    &quot;Python.indexOfFirstOccurence.28.executor&quot;: &quot;Run&quot;,
-    &quot;Python.isPowerOfTwo.231.executor&quot;: &quot;Run&quot;,
-    &quot;Python.isSubsequence.392.executor&quot;: &quot;Run&quot;,
-    &quot;Python.isomrphicStrings.205.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kidsWithCandies.1431.executor&quot;: &quot;Run&quot;,
-    &quot;Python.letterCombination17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.longestOnes.1004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.maxRows.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mergeStringsAlternatively.1768.executor&quot;: &quot;Run&quot;,
-    &quot;Python.moveZeros.283.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiplyStrings.43.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numberOfOneBits.191.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pascalsTriangel.118.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pivotIndex.724.executor&quot;: &quot;Run&quot;,
-    &quot;Python.produchExceptSelf.238.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recentCounter.933.executor&quot;: &quot;Run&quot;,
-    &quot;Python.removeDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverseBits.190.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverseVowels.345.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverseWords.151.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scoreOfAString.3110.executor&quot;: &quot;Run&quot;,
-    &quot;Python.seacrhInsertPosition.35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.twoSum2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.uglyNumber.263.executor&quot;: &quot;Run&quot;,
-    &quot;Python.uniqueOccurences.1207.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vowelSubarray.1456.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/python extra&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.3sum.executor": "Run",
+    "Python.BTInorder.executor": "Run",
+    "Python.RemoveElement.executor": "Run",
+    "Python.addDigits.258.executor": "Run",
+    "Python.canPlaceFlowers.605.executor": "Run",
+    "Python.climbingStairs.70.executor": "Run",
+    "Python.combinationSum.39.executor": "Run",
+    "Python.container.executor": "Run",
+    "Python.containsDuplicate.217.executor": "Run",
+    "Python.countKConstraintSubstrings.executor": "Run",
+    "Python.countingBits.338.executor": "Run",
+    "Python.divideIntegers.29.executor": "Run",
+    "Python.fillingBookcaseShelves.1105.executor": "Run",
+    "Python.findDifference.2215.executor": "Run",
+    "Python.findMaxAverage.643.executor": "Run",
+    "Python.greatestCommonDivisorOfStrings.1071.executor": "Run",
+    "Python.highestAltitude.1732.executor": "Run",
+    "Python.indexOfFirstOccurence.28.executor": "Run",
+    "Python.isPowerOfTwo.231.executor": "Run",
+    "Python.isSubsequence.392.executor": "Run",
+    "Python.isomrphicStrings.205.executor": "Run",
+    "Python.kidsWithCandies.1431.executor": "Run",
+    "Python.letterCombination17.executor": "Run",
+    "Python.longestOnes.1004.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.maxOperations.1679.executor": "Run",
+    "Python.maxRows.executor": "Run",
+    "Python.mergeStringsAlternatively.1768.executor": "Run",
+    "Python.moveZeros.283.executor": "Run",
+    "Python.multiplyStrings.43.executor": "Run",
+    "Python.numberOfOneBits.191.executor": "Run",
+    "Python.pascalsTriangel.118.executor": "Run",
+    "Python.pivotIndex.724.executor": "Run",
+    "Python.produchExceptSelf.238.executor": "Run",
+    "Python.recentCounter.933.executor": "Run",
+    "Python.removeDuplicates.executor": "Run",
+    "Python.reverseBits.190.executor": "Run",
+    "Python.reverseVowels.345.executor": "Run",
+    "Python.reverseWords.151.executor": "Run",
+    "Python.scoreOfAString.3110.executor": "Run",
+    "Python.seacrhInsertPosition.35.executor": "Run",
+    "Python.twoSum2.executor": "Run",
+    "Python.uglyNumber.263.executor": "Run",
+    "Python.uniqueOccurences.1207.executor": "Run",
+    "Python.vowelSubarray.1456.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/python extra",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="Leetcode" is-module-sdk="true">
@@ -222,7 +223,7 @@
       <workItem from="1725001493283" duration="14113000" />
       <workItem from="1725038247553" duration="5529000" />
       <workItem from="1725090816431" duration="47000" />
-      <workItem from="1725090880693" duration="6173000" />
+      <workItem from="1725090880693" duration="6668000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode solutions">
       <option name="closed" value="true" />
@@ -520,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725100177710</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="leetcode solution 238">
+      <option name="closed" value="true" />
+      <created>1725100558381</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1725100558381</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +560,8 @@
     <MESSAGE value="leetcode solution #1456" />
     <MESSAGE value="leetcode solution #1004" />
     <MESSAGE value="leetcode solution 724" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode solution 724" />
+    <MESSAGE value="leetcode solution 238" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode solution 238" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode$moveZeros_283.coverage" NAME="moveZeros.283 Coverage Results" MODIFIED="1724746966168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -575,6 +585,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$container.coverage" NAME="container Coverage Results" MODIFIED="1720877526529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$pivotIndex_724.coverage" NAME="pivotIndex.724 Coverage Results" MODIFIED="1725100111549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$canPlaceFlowers_605.coverage" NAME="canPlaceFlowers.605 Coverage Results" MODIFIED="1723982186399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$maxOperations_1679.coverage" NAME="maxOperations.1679 Coverage Results" MODIFIED="1725101019813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$main.coverage" NAME="main Coverage Results" MODIFIED="1721038429867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$reverseVowels_345.coverage" NAME="reverseVowels.345 Coverage Results" MODIFIED="1723983002337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$isSubsequence_392.coverage" NAME="isSubsequence.392 Coverage Results" MODIFIED="1724748215239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
