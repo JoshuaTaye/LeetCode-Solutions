@@ -302,13 +302,25 @@ class StaticArrays:
 #      value = array[index % size]
 #      print(value)
 
-print("val: ",3%4)
-new_ar = [0,1,2,3,4,5,6]
-def prefix_Sum(arr):
-    ps = [0]*len(arr)
-    ps[0] = arr[0]
-    for i in range(1, len(arr)):
-        ps[i] += arr[i] + ps[i-1]
-    return ps
-
-print(prefix_Sum(new_ar))
+# print("val: ",3%4)
+# new_ar = [0,1,2,3,4,5,6]
+# def prefix_Sum(arr):
+#     ps = [0]*(len(arr)+1)
+#     for i in range(1, len(arr)):
+#         ps[i+1] += arr[i] + ps[i]
+#     return ps
+#
+# print(prefix_Sum(new_ar))
+# from collections import deque
+# q = deque()
+# q.appendleft(1)
+# q.appendleft(2)
+# q.appendleft(3)
+# print(q)
+# s.append("one")
+# s.append("two")
+# s.append("three")
+# s.append("four")
+# s.pop()
+# print(s)
+# queue uses a loosely coupled producer consumer problem.

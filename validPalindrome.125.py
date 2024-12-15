@@ -1,17 +1,18 @@
 def validPalindrome(s):
-    arr = []
-    alphabet = 'abcdefghijklmnopqrstuvwxyz0123456789'
+    left = 0
+    right = len(s)-1
     s = s.lower()
-    for i in s:
-        if i in alphabet:
-            arr.append(i)
-    k = 0
-    p = len(arr) - 1
-    while k < p:
-        if arr[k] != arr[p]:
+    while left <= right:
+        if not s[left].isalnum():
+            left += 1
+            continue
+        elif not s[right].isalnum():
+            right -= 1
+            continue
+        if s[left] != s[right]:
             return False
-        k += 1
-        p -= 1
+        left += 1
+        right -= 1
     return True
 
 

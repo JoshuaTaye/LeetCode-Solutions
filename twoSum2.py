@@ -1,18 +1,15 @@
 def twoSum(arr, n):
-    lst = []
-    for i in range(len(arr)):
-        for j in range(len(arr)):
-            if i == j:
-                continue
-            if int(arr[i]) + int(arr[j]) == n:
-                if i not in lst:
-                    lst.append(i)
-                if j not in lst:
-                    lst.append(j)
-    return lst
+    left = 0
+    right = len(arr) - 1
+    while left < right:
+        if arr[left] + arr[right] == n:
+            return [left+1, right+1]
+        elif arr[left] + arr[right] < n:
+            left += 1
+        else:
+            right -= 1
+    return -1
 
 
-# nums = input()
-nums = input().strip('[').strip(']').split(',')
-target = int(input('Enter target'))
-print(twoSum(nums, target))
+
+print(twoSum([5, 25, 75], 100))
