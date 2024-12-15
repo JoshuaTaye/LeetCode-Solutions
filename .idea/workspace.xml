@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solution #80">
+    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solutions">
       <change afterPath="$PROJECT_DIR$/countingBits.338.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/groupAnagrams.49.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/increasingTriplet.334.py" afterDir="false" />
@@ -279,15 +279,7 @@
       <workItem from="1733388136913" duration="10355000" />
       <workItem from="1734174027086" duration="1598000" />
       <workItem from="1734176737411" duration="310000" />
-      <workItem from="1734177089955" duration="15733000" />
-    </task>
-    <task id="LOCAL-00003" summary="leetcode solutions">
-      <option name="closed" value="true" />
-      <created>1721046284501</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1721046284501</updated>
+      <workItem from="1734177089955" duration="16501000" />
     </task>
     <task id="LOCAL-00004" summary="leetcode solutions">
       <option name="closed" value="true" />
@@ -673,7 +665,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727168494015</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="leetcode solutions">
+      <option name="closed" value="true" />
+      <created>1734251318497</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1734251318498</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,7 +681,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="leetcode solution #283" />
     <MESSAGE value="leetcode solution #392" />
     <MESSAGE value="leetcode solution #643" />
     <MESSAGE value="leetcode solution #1732" />
@@ -706,7 +705,8 @@
     <MESSAGE value="leetcode solution #67" />
     <MESSAGE value="leetcode solution #50" />
     <MESSAGE value="leetcode solution #80" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode solution #80" />
+    <MESSAGE value="leetcode solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode solutions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode$countKConstraintSubstrings.coverage" NAME="countKConstraintSubstrings Coverage Results" MODIFIED="1724704466704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
