@@ -1,11 +1,14 @@
 def container (h):
-    max = 0
-    for i in range(len(h)):
-        for j in range(i+1, len(h)):
-                area = min(int(h[j]),int(h[i])) * (j - i)
-                print(area)
-                if area > max:
-                    max = area
-    print(max)
-# height = input().strip('[').strip(']').split(',')
-container([1,8,6,2,5,4,8,3,7])
+    left = 0
+    right = len(h) - 1
+    maxArea = 1
+    while left < right:
+        area = (min(h[left], h[right])) * (right - left)
+        maxArea = max(area, maxArea)
+        if h[left] <= h[right]:
+            left += 1
+        else:
+            right -= 1
+    return maxArea
+
+print(container([4, 3, 2, 1, 4]))
