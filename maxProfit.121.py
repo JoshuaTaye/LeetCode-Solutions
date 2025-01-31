@@ -1,14 +1,13 @@
-def maxProfit(prices):
+def maxProfit(arr):
     left = 0
     right = 1
-    mProfit = 0
-    while right < len(prices):
-        if prices[right] > prices[left]:
-            pr = prices[right] - prices[left]
-            mProfit = max(mProfit, pr)
+    mp = 0
+    while right < len(arr):
+        if arr[left] < arr[right]:
+            mp = max(right - left + 1, mp)
         else:
             left = right
         right += 1
-    return mProfit
+    return mp
 
-print(maxProfit([7,1,5,3,6,4]))
+print(maxProfit([7, 1, 4, 2, 6, 4]))

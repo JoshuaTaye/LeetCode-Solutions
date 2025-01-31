@@ -1,3 +1,3 @@
 def removeDuplicates(arr):
-    return
-print(removeDuplicates([1,1,2,3,3]))
+    pointer = 0
+print(removeDuplicates([0,0,1,1,1,2,2,3,3,4]))
