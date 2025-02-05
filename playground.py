@@ -535,4 +535,14 @@
 #     result = swap_case(s)
 #     print(result)
 
+s = {1, (2, 3, 4), "a"}
+print(s)
+lst = ["1", 1]
+hashh = {1:2, 2:2}
+print(hashh.items())
+hashh.pop(1)
+print(hashh)
+# print(lst)
+
+print(3%4, 4%300)
 
