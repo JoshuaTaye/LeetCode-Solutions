@@ -536,13 +536,32 @@
 #     print(result)
 
 s = {1, (2, 3, 4), "a"}
-print(s)
+# print(s)
 lst = ["1", 1]
 hashh = {1:2, 2:2}
-print(hashh.items())
+# print(hashh.items())
 hashh.pop(1)
-print(hashh)
+# print(hashh)
 # print(lst)
+# s = []
+# for i in range(5):
+#     s.append(str(i+1))
+#     print(" ".join(s))
 
-print(3%4, 4%300)
+mat = [
+    [0,1,2,3],
+    [4,5,6,7],
+    [8,9,10,11]
+]
+
+start = 1
+summ = 0
+for i in range(len(mat)):
+    for j in range(len(mat[i]) - start):
+        if i == j:
+            summ += mat[i][start + j]
+print(summ)
+
+
+# print(3%4, 4%300)
 
