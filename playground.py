@@ -1,13 +1,19 @@
 # #
 # #
 # # #
-# # # Bubble Sort
-# # def bubble_sort(arr):
-# #     for i in range(len(arr)):
-# #         for j in range(len(arr) - i - 1):
-# #             if arr[j] > arr[j + 1]:
-# #                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
-# #     return arr
+# Bubble Sort
+def bubble_sort(arr):
+    for i in range(len(arr)):
+        isSorted = True
+        for j in range(len(arr) - i - 1):
+            if arr[j] > arr[j + 1]:
+                isSorted = False
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+        if isSorted:
+            break
+        print(arr)
+    return arr
+# print(bubble_sort([5, 4, 3, 1,1]))
 # #
 # #
 # # #
@@ -547,21 +553,38 @@ hashh.pop(1)
 # for i in range(5):
 #     s.append(str(i+1))
 #     print(" ".join(s))
-
-mat = [
-    [0,1,2,3],
-    [4,5,6,7],
-    [8,9,10,11]
-]
-
-start = 1
-summ = 0
-for i in range(len(mat)):
-    for j in range(len(mat[i]) - start):
-        if i == j:
-            summ += mat[i][start + j]
-print(summ)
+#
+# mat = [
+#     [0,1,2,3],
+#     [4,5,6,7],
+#     [8,9,10,11]
+# ]
+#
+# start = 1
+# summ = 0
+# for i in range(len(mat)):
+#     for j in range(len(mat[i]) - start):
+#         if i == j:
+#             summ += mat[i][start + j]
+# print(summ)
 
 
 # print(3%4, 4%300)
+def selectionSortt(ppl, ar):
+    t = tuple(zip(ppl, ar))
+    print(t)
+    diff = max(ar) -min(ar)
+    lst = [0]* (diff + 1)
+    for i in range(len(t)):
+        lst[t[i][1]- min(ar)] += 1
+    res = []
+    for k in range(len(lst) - 1, -1, -1):
+        if lst[k] > 0:
+            for p in range(lst[k]):
+                res.append(k + min(ar))
+    # return ppl
+    print("res",res)
+
+
+print(selectionSortt(["Mary","John","Emma"], [180,165,170]))
 

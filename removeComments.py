@@ -1,22 +1,43 @@
 def removeComments(source):
+    s = "\n".join(source)
+    res = ""
     i = 0
-    j = 0
-    while j < len(source):
-        j += 1
-    while i < len(source):
-        source[i] = source[i].strip(" ")
-        if (source[i][:2] == "//") or (source[i][:2] == "/*" and source[i][-2:] == "*/"):
-            source.remove(source[i])
-            i += 1
-        elif source[i][:2] == "/*":
-            source[i] = source[i].strip(" ")
-            while i < len(source) and source[i][-2:] != "*/":
-                source.remove(source[i])
-            if source[i][-2:] == "*/":
-                source.remove(source[i])
+    while i < len(s):
+        two = s[i:i+2]
+        if two == "//":
+            i += 2
+            while i < len(s) and s[i] != "\n":
                 i += 1
+        elif two == "/*":
+            i += 2
+            while s[i:i+2] != "*/":
+                i +=1
+            i += 2
         else:
+            res += s[i]
             i += 1
-    return source
+    a = []
+    for x in res.split("\n"):
+        if x != "":
+            a.append(x)
+    return a
+print(removeComments(
+# ["a/*comment", "line", "more_comment*/b"]
+[
+ "struct Node{",
+ "    /*/ declare members;/**/",
+ "    int size;",
+ "    /**/int val;",
+ "};"]
+))
 
-print(removeComments(["/*Test program */", "int main()", "{ ", "  // variable declaration ", "int a, b, c;", "/* This is a test", "   multiline  ", "   comment for ", "   testing */", "a = b + c;", "}"]))
+# if "*/" in source[i]:
+#     x = source[i].split("/*")
+#     y = x.split("*/")
+#     print(x)
+#     print(y)
+#     source[i] = ["".join(x[0] + y[1])]
+# else:
+#     source[i] = source[i].split("/*")
+#     source[i] = source[i][0]
+#     i += 1
