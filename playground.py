@@ -586,5 +586,25 @@ def selectionSortt(ppl, ar):
     print("res",res)
 
 
-print(selectionSortt(["Mary","John","Emma"], [180,165,170]))
+# print(selectionSortt(["Mary","John","Emma"], [180,165,170]))
+
+
+def mergeSorted(arr1, arr2):
+    l = 0
+    r = 0
+    arr3 = []
+    while l < len(arr1) and r < len(arr2):
+        if arr1[l] < arr2[r]:
+            arr3.append(arr1[l])
+            l += 1
+        else:
+            arr3.append(arr2[r])
+            r += 1
+    while l < len(arr1):
+        arr3.append(arr1[l])
+        l += 1
+    while r < len(arr2):
+        arr3.append(arr2[r])
+        r += 1
+    return arr3
 
