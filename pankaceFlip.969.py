@@ -1,20 +1,19 @@
 def pancakeFlip(arr):
-    pointers = []
-    for i in range(10):
-        pointer  = 0
-        while pointer < len(arr)-1:
-            if arr[pointer] > arr[pointer + 1]:
-                if pointer == 0:
-                    print(arr)
-                    print("yes")
-                    arr.reverse()
-                    print(arr)
-                else:
-                    arr = reversed(arr[:pointer+1]) + arr[pointer+1:]
-                pointers.append(pointer)
-            pointer += 1
-            print(arr)
-    return arr
-    print(reversed(arr))
+    res = []
+    n = len(arr)
+    r = n - 1
+    if sorted(arr) == arr:
+        return []
+    for r in range(n-1, -1, -1):
+        maxInd = -1
+        for i in range(r-1, -1, -1):
+            if arr[i] > arr[maxInd]:
+                maxInd = i
+        if maxInd != r:
+            arr = list(reversed(arr[:maxInd+1])) + arr[maxInd+1:]
+            res.append(maxInd+1)
+            arr = list(reversed(arr[:r+1])) + arr[r+1:]
+            res.append(r+1)
+    return res
 
 print(pancakeFlip([3, 2, 4, 1]))

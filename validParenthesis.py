@@ -43,13 +43,15 @@ def valid(st):
 #     #     return False
 #     # return True
 # #     print()
-    stack = deque()
+    stack = []
+    match = {"(" : ")",
+             "{": "}",
+             "[": "]"}
     for i in range(len(st)):
         if len(stack) == 0:
             stack.append(st[i])
         else:
-            if (stack[-1] == "{" and st[i] == "}") or (stack[-1] == "[" and st[i] == "]") or (
-                    stack[-1] == "(" and st[i] == ")"):
+            if match[stack[-1]] == st[i]:
                 stack.pop()
             else:
                 stack.append(st[i])

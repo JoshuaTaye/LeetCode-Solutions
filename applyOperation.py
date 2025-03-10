@@ -14,6 +14,8 @@ def applyOps(nums):
         else:
             res.append(nums[i])
         i += 1
+        for i in range(len(nums)):
+            print(nums[i])
     print(counter)
     for i in range(counter):
         res.append(0)

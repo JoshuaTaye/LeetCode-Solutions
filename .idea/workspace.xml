@@ -5,18 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solutions">
-      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 1/A. Merging Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 1/B. Number of Smaller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boatsToSavePeople.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frequencySort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxCoins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minMovesToSeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moveZeroes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smallerNumbersThanCurrent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - A2SV G6 - Round 4/A. A+ Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - A2SV G6 - Round 4/B. Jo's Adventure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 171 Div 2/B. Books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 419 Div 2/B. Karen and Coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 636 Div 3/C. Alternating Subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 794 Div 2/B. Odd Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Educational Codeforces Round 5/D. Longest k-Good Segment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Educational Codeforces Round 69 Rated for Div 2/C. Array Splitting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/A. Segment with Small Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/B. Segment with Big Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/C. Number of Segments with Small Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/D. Number of Segments with Big Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/E. Segments with Small Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deckRevealedIncreased.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iceCreamBars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intervalIntersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/judgeSquareSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lengthofUniqueSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longestOnes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxScore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxSumRangeQuery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximumSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minCost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numSubarraysWithSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partitionLabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotateArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/score_of_parenthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/separateBlackAndWhite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subarraysDivByK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_of_subarray_minimums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threeSumClosest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validPalindromeII.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.autocp" beforeDir="false" afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/largestNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/largestNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applyOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/applyOperation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkInclusion.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkInclusion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pankaceFlip.969.py" beforeDir="false" afterPath="$PROJECT_DIR$/pankaceFlip.969.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productExceptSelf.238.py" beforeDir="false" afterPath="$PROJECT_DIR$/productExceptSelf.238.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rangeSumQuery2D.304.py" beforeDir="false" afterPath="$PROJECT_DIR$/rangeSumQuery2D.304.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiftingLetters.2381.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiftingLetters.2381.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplifyPath.71.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplifyPath.71.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validParenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/validParenthesis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,12 +108,24 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "AutoCp Solution.A. Love Story.executor": "Run",
     "AutoCp Solution.A. Merging Arrays.executor": "Run",
+    "AutoCp Solution.A. Segment with Small Sum.executor": "Run",
     "AutoCp Solution.A. Sum.executor": "Run",
     "AutoCp Solution.A. Vus the Cossack and a Contest.executor": "Run",
+    "AutoCp Solution.B. Books.executor": "Run",
+    "AutoCp Solution.B. Jo's Adventure.executor": "Run",
+    "AutoCp Solution.B. Karen and Coffee.executor": "Run",
+    "AutoCp Solution.B. Odd Subarrays.executor": "Run",
+    "AutoCp Solution.B. Segment with Big Sum.executor": "Run",
     "AutoCp Solution.B. Square String?.executor": "Run",
+    "AutoCp Solution.C. Alternating Subsequence.executor": "Run",
+    "AutoCp Solution.C. Array Splitting.executor": "Run",
     "AutoCp Solution.C. Compare T-Shirt Sizes.executor": "Run",
+    "AutoCp Solution.C. Number of Segments with Small Sum.executor": "Run",
+    "AutoCp Solution.D. Longest k-Good Segment.executor": "Run",
+    "AutoCp Solution.D. Number of Segments with Big Sum.executor": "Run",
     "AutoCp Solution.D. Repeating Cipher.executor": "Run",
     "AutoCp Solution.E. From S To T.executor": "Run",
+    "AutoCp Solution.E. Segments with Small Set.executor": "Run",
     "Python.1324.print_words_vertically.executor": "Run",
     "Python.3sum.executor": "Run",
     "Python.BTInorder.executor": "Run",
@@ -106,6 +150,7 @@
     "Python.countCharacters.executor": "Run",
     "Python.countKConstraintSubstrings.executor": "Run",
     "Python.countingBits.338.executor": "Run",
+    "Python.deckRevealedIncreased.executor": "Run",
     "Python.diagonalTraversal.executor": "Run",
     "Python.divideIntegers.29.executor": "Run",
     "Python.dividePlayers.2491.executor": "Run",
@@ -124,17 +169,23 @@
     "Python.groupAnagrams.49.executor": "Run",
     "Python.happyNumber.202.executor": "Run",
     "Python.highestAltitude.1732.executor": "Run",
+    "Python.iceCreamBars.executor": "Run",
     "Python.imageSmoother.executor": "Run",
     "Python.increasingTriplet.334.executor": "Run",
     "Python.indexOfFirstOccurence.28.executor": "Run",
     "Python.intToRoman.executor": "Run",
+    "Python.intervalIntersection.executor": "Run",
     "Python.isPowerOfTwo.231.executor": "Run",
     "Python.isSubsequence.392.executor": "Run",
     "Python.isomrphicStrings.205.executor": "Run",
+    "Python.judgeSquareSum.executor": "Run",
     "Python.kidsWithCandies.1431.executor": "Run",
     "Python.largestNumber.executor": "Run",
+    "Python.lengthofUniqueSubstring.executor": "Run",
     "Python.letterCombination17.executor": "Run",
+    "Python.linked_list.executor": "Run",
     "Python.longestOnes.1004.executor": "Run",
+    "Python.longestOnes.executor": "Run",
     "Python.longestPalindrome.5.executor": "Run",
     "Python.longestSubstring.executor": "Run",
     "Python.main.executor": "Run",
@@ -145,7 +196,10 @@
     "Python.maxOperations.1679.executor": "Run",
     "Python.maxProfit.121.executor": "Run",
     "Python.maxRows.executor": "Run",
+    "Python.maxScore.executor": "Run",
+    "Python.maxSumRangeQuery.executor": "Run",
     "Python.maxSumSubmatrix.executor": "Run",
+    "Python.maximumSubarray.executor": "Run",
     "Python.mergeSortedArray.88.executor": "Run",
     "Python.mergeStringsAlternatively.1768.executor": "Run",
     "Python.minMovesToSeat.executor": "Run",
@@ -154,13 +208,16 @@
     "Python.moveZeros.283.executor": "Run",
     "Python.multiplyStrings.43.executor": "Run",
     "Python.munSubArrLen.209.executor": "Run",
+    "Python.numSubarraysWithSum.executor": "Run",
     "Python.numberOfOneBits.191.executor": "Run",
     "Python.pankaceFlip.969.executor": "Run",
+    "Python.partitionLabels.executor": "Run",
     "Python.pascalsTriangel.118.executor": "Run",
     "Python.passThePillow.executor": "Run",
     "Python.pivotIndex.724.executor": "Run",
     "Python.playground.executor": "Run",
     "Python.produchExceptSelf.238.executor": "Run",
+    "Python.productExceptSelf.238.executor": "Run",
     "Python.rangeSumQuery2D.304.executor": "Run",
     "Python.range_Query_immutable.303.executor": "Run",
     "Python.ransomNote.383.executor": "Run",
@@ -172,10 +229,13 @@
     "Python.reverseBits.190.executor": "Run",
     "Python.reverseVowels.345.executor": "Run",
     "Python.reverseWords.151.executor": "Run",
+    "Python.rotateArray.executor": "Run",
     "Python.rotateImage.executor": "Run",
     "Python.runningSum.1480.executor": "Run",
     "Python.scoreOfAString.3110.executor": "Run",
+    "Python.score_of_parenthesis.executor": "Run",
     "Python.seacrhInsertPosition.35.executor": "Run",
+    "Python.separateBlackAndWhite.executor": "Run",
     "Python.separateDigits.executor": "Run",
     "Python.shiftingLetters.2381.executor": "Run",
     "Python.shortestSubarray.executor": "Run",
@@ -188,9 +248,13 @@
     "Python.spiralOrder.executor": "Run",
     "Python.stringCompression.443.executor": "Run",
     "Python.subArraySumEqualsK.executor": "Run",
+    "Python.subarraysDivByK.executor": "Run",
     "Python.subdomainVisitCount.executor": "Run",
     "Python.sumAfterQueries.executor": "Run",
     "Python.sumOfSquaredNums.633.executor": "Run",
+    "Python.sum_of_subarray_minimums.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.threeSumClosest.executor": "Run",
     "Python.transpose.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.twoSum2.executor": "Run",
@@ -198,6 +262,7 @@
     "Python.uniqueOccurences.1207.executor": "Run",
     "Python.validAnagram.242.executor": "Run",
     "Python.validPalindrome.125.executor": "Run",
+    "Python.validPalindromeII.executor": "Run",
     "Python.validParenthesis.executor": "Run",
     "Python.validSudoku.executor": "Run",
     "Python.vowelSubarray.1456.executor": "Run",
@@ -212,7 +277,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -261,8 +326,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -370,15 +435,41 @@
       <workItem from="1739170255203" duration="17919000" />
       <workItem from="1739273325051" duration="15336000" />
       <workItem from="1739343254779" duration="2427000" />
-      <workItem from="1739358469664" duration="9823000" />
-    </task>
-    <task id="LOCAL-00014" summary="leetcode solutions #43">
-      <option name="closed" value="true" />
-      <created>1723550654264</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1723550654264</updated>
+      <workItem from="1739358469664" duration="12694000" />
+      <workItem from="1739389477284" duration="1711000" />
+      <workItem from="1739431862564" duration="3759000" />
+      <workItem from="1739445674505" duration="13496000" />
+      <workItem from="1739471725279" duration="8817000" />
+      <workItem from="1739514021785" duration="22024000" />
+      <workItem from="1739559944348" duration="5209000" />
+      <workItem from="1739599695257" duration="25000" />
+      <workItem from="1739599960625" duration="74000" />
+      <workItem from="1739691711963" duration="6047000" />
+      <workItem from="1739761666963" duration="1371000" />
+      <workItem from="1739767877800" duration="3331000" />
+      <workItem from="1739791471307" duration="9456000" />
+      <workItem from="1739860851203" duration="3317000" />
+      <workItem from="1739867954546" duration="1243000" />
+      <workItem from="1739877504350" duration="9727000" />
+      <workItem from="1739948042947" duration="8287000" />
+      <workItem from="1740048584398" duration="864000" />
+      <workItem from="1740069886513" duration="578000" />
+      <workItem from="1740123318762" duration="3763000" />
+      <workItem from="1740202607933" duration="1906000" />
+      <workItem from="1740420363619" duration="1917000" />
+      <workItem from="1740554110756" duration="1199000" />
+      <workItem from="1740752134837" duration="1921000" />
+      <workItem from="1741184889666" duration="4528000" />
+      <workItem from="1741204812718" duration="1018000" />
+      <workItem from="1741271473566" duration="1363000" />
+      <workItem from="1741360662687" duration="644000" />
+      <workItem from="1741362968168" duration="3201000" />
+      <workItem from="1741374094819" duration="2173000" />
+      <workItem from="1741413315276" duration="26000" />
+      <workItem from="1741461712359" duration="8222000" />
+      <workItem from="1741587485115" duration="84000" />
+      <workItem from="1741587576345" duration="1874000" />
+      <workItem from="1741592203728" duration="412000" />
     </task>
     <task id="LOCAL-00015" summary="leetcode solutions #205">
       <option name="closed" value="true" />
@@ -764,7 +855,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739280860950</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="leetcode solutions">
+      <option name="closed" value="true" />
+      <created>1739372792895</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1739372792895</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -802,33 +901,39 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode$countKConstraintSubstrings.coverage" NAME="countKConstraintSubstrings Coverage Results" MODIFIED="1724704466704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$isomrphicStrings_205.coverage" NAME="isomrphicStrings.205 Coverage Results" MODIFIED="1723807350357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$checkInclusion.coverage" NAME="checkInclusion Coverage Results" MODIFIED="1734446311540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$pascalsTriangel_118.coverage" NAME="pascalsTriangel.118 Coverage Results" MODIFIED="1722936875936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$checkInclusion.coverage" NAME="checkInclusion Coverage Results" MODIFIED="1739475681379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$canPlaceFlowers_605.coverage" NAME="canPlaceFlowers.605 Coverage Results" MODIFIED="1723982186399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$pascalsTriangel_118.coverage" NAME="pascalsTriangel.118 Coverage Results" MODIFIED="1722936875936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$longestOnes.coverage" NAME="longestOnes Coverage Results" MODIFIED="1739538463700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$twoSum2.coverage" NAME="twoSum2 Coverage Results" MODIFIED="1734516461917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$evalRPN_150.coverage" NAME="evalRPN.150 Coverage Results" MODIFIED="1734338599620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$range_Query_immutable_303.coverage" NAME="range_Query_immutable.303 Coverage Results" MODIFIED="1734179300058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$munSubArrLen_209.coverage" NAME="munSubArrLen.209 Coverage Results" MODIFIED="1734184916264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$longestSubstring.coverage" NAME="longestSubstring Coverage Results" MODIFIED="1734290466606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$checkSubArraySum_523.coverage" NAME="checkSubArraySum.523 Coverage Results" MODIFIED="1734343032640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$intervalIntersection.coverage" NAME="intervalIntersection Coverage Results" MODIFIED="1739869180580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$findDuplicate.coverage" NAME="findDuplicate Coverage Results" MODIFIED="1738597686706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$longestPalindrome_5.coverage" NAME="longestPalindrome.5 Coverage Results" MODIFIED="1734378877522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$Find_Players_With_Zero_or_One_Losses.coverage" NAME="Find Players With Zero or One Losses Coverage Results" MODIFIED="1738593443750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$findDifference_2215.coverage" NAME="findDifference.2215 Coverage Results" MODIFIED="1724844289271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$Find_Players_With_Zero_or_One_Losses.coverage" NAME="Find Players With Zero or One Losses Coverage Results" MODIFIED="1738593443750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$judgeSquareSum.coverage" NAME="judgeSquareSum Coverage Results" MODIFIED="1739374047444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$uniqueOccurences_1207.coverage" NAME="uniqueOccurences.1207 Coverage Results" MODIFIED="1724864227045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$lengthofUniqueSubstring.coverage" NAME="lengthofUniqueSubstring Coverage Results" MODIFIED="1739433741647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$addBinary_67.coverage" NAME="addBinary.67 Coverage Results" MODIFIED="1726911707338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$container.coverage" NAME="container Coverage Results" MODIFIED="1734418177202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$simplifyPath_71.coverage" NAME="simplifyPath.71 Coverage Results" MODIFIED="1734270043425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$simplifyPath_71.coverage" NAME="simplifyPath.71 Coverage Results" MODIFIED="1741188532463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$vowelSubarray_1456.coverage" NAME="vowelSubarray.1456 Coverage Results" MODIFIED="1724958986125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$isPowerOfTwo_231.coverage" NAME="isPowerOfTwo.231 Coverage Results" MODIFIED="1721046832188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$sumOfSquaredNums_633.coverage" NAME="sumOfSquaredNums.633 Coverage Results" MODIFIED="1734514852111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$deckRevealedIncreased.coverage" NAME="deckRevealedIncreased Coverage Results" MODIFIED="1741592235331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$rotateImage.coverage" NAME="rotateImage Coverage Results" MODIFIED="1739170267752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$validAnagram_242.coverage" NAME="validAnagram.242 Coverage Results" MODIFIED="1726740135834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$characterReplacement_424.coverage" NAME="characterReplacement.424 Coverage Results" MODIFIED="1734434803331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$pankaceFlip_969.coverage" NAME="pankaceFlip.969 Coverage Results" MODIFIED="1734525080680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$boatsToSavePeople.coverage" NAME="boatsToSavePeople Coverage Results" MODIFIED="1739368409634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$characterReplacement_424.coverage" NAME="characterReplacement.424 Coverage Results" MODIFIED="1734434803331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$pankaceFlip_969.coverage" NAME="pankaceFlip.969 Coverage Results" MODIFIED="1739699247589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$singleNumberII_137.coverage" NAME="singleNumberII.137 Coverage Results" MODIFIED="1728315217523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$largestNumber.coverage" NAME="largestNumber Coverage Results" MODIFIED="1739283136191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$maxSumRangeQuery.coverage" NAME="maxSumRangeQuery Coverage Results" MODIFIED="1740127318236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$moveZeros_283.coverage" NAME="moveZeros.283 Coverage Results" MODIFIED="1724746966168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$intToRoman.coverage" NAME="intToRoman Coverage Results" MODIFIED="1738756002858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$shortestSubarray.coverage" NAME="shortestSubarray Coverage Results" MODIFIED="1734450524807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -838,11 +943,14 @@
     <SUITE FILE_PATH="coverage/Leetcode$highestAltitude_1732.coverage" NAME="highestAltitude.1732 Coverage Results" MODIFIED="1724844065999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$maxCoins.coverage" NAME="maxCoins Coverage Results" MODIFIED="1739301198595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$happyNumber_202.coverage" NAME="happyNumber.202 Coverage Results" MODIFIED="1726834711884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$validPalindromeII.coverage" NAME="validPalindromeII Coverage Results" MODIFIED="1739478995479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$numSubarraysWithSum.coverage" NAME="numSubarraysWithSum Coverage Results" MODIFIED="1739879507024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$reverseVowels_345.coverage" NAME="reverseVowels.345 Coverage Results" MODIFIED="1723983002337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$passThePillow.coverage" NAME="passThePillow Coverage Results" MODIFIED="1738366548217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$divideIntegers_29.coverage" NAME="divideIntegers.29 Coverage Results" MODIFIED="1722246318627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$shiftingLetters_2381.coverage" NAME="shiftingLetters.2381 Coverage Results" MODIFIED="1734260748892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$linked_list.coverage" NAME="linked_list Coverage Results" MODIFIED="1739952282028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$mergeStringsAlternatively_1768.coverage" NAME="mergeStringsAlternatively.1768 Coverage Results" MODIFIED="1723887427935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$shiftingLetters_2381.coverage" NAME="shiftingLetters.2381 Coverage Results" MODIFIED="1739782026274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$3sum.coverage" NAME="3sum Coverage Results" MODIFIED="1720873035126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$RemoveElement.coverage" NAME="RemoveElement Coverage Results" MODIFIED="1720875769685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$wordPattern_290.coverage" NAME="wordPattern.290 Coverage Results" MODIFIED="1726738628607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -851,19 +959,21 @@
     <SUITE FILE_PATH="coverage/Leetcode$BTInorder.coverage" NAME="BTInorder Coverage Results" MODIFIED="1721043753716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$findWords.coverage" NAME="findWords Coverage Results" MODIFIED="1738762659806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$making_personal_information.coverage" NAME="making_personal_information Coverage Results" MODIFIED="1738582218165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$maximumSubarray.coverage" NAME="maximumSubarray Coverage Results" MODIFIED="1740753896781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$scoreOfAString_3110.coverage" NAME="scoreOfAString.3110 Coverage Results" MODIFIED="1723884563886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$sumAfterQueries.coverage" NAME="sumAfterQueries Coverage Results" MODIFIED="1739106863707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$majorityElement_169.coverage" NAME="majorityElement.169 Coverage Results" MODIFIED="1726480409314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$majorityElement.coverage" NAME="majorityElement Coverage Results" MODIFIED="1738955380448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$multiplyStrings_43.coverage" NAME="multiplyStrings.43 Coverage Results" MODIFIED="1723402451490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$rangeSumQuery2D_304.coverage" NAME="rangeSumQuery2D.304 Coverage Results" MODIFIED="1734530017696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$validSudoku.coverage" NAME="validSudoku Coverage Results" MODIFIED="1738954050419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$removeComments.coverage" NAME="removeComments Coverage Results" MODIFIED="1739280631203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$rangeSumQuery2D_304.coverage" NAME="rangeSumQuery2D.304 Coverage Results" MODIFIED="1739794352443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$productExceptSelf_238.coverage" NAME="productExceptSelf.238 Coverage Results" MODIFIED="1739861259427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$minMovesToSeat.coverage" NAME="minMovesToSeat Coverage Results" MODIFIED="1739359381279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$maxProfit_121.coverage" NAME="maxProfit.121 Coverage Results" MODIFIED="1734417051229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$reverseBits_190.coverage" NAME="reverseBits.190 Coverage Results" MODIFIED="1723833737452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$indexOfFirstOccurence_28.coverage" NAME="indexOfFirstOccurence.28 Coverage Results" MODIFIED="1722235396891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$frequencySort.coverage" NAME="frequencySort Coverage Results" MODIFIED="1739372676623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$frequencySort.coverage" NAME="frequencySort Coverage Results" MODIFIED="1739372695869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$climbingStairs_70.coverage" NAME="climbingStairs.70 Coverage Results" MODIFIED="1722940669711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$imageSmoother.coverage" NAME="imageSmoother Coverage Results" MODIFIED="1738849959746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$numberOfOneBits_191.coverage" NAME="numberOfOneBits.191 Coverage Results" MODIFIED="1724910005439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -889,15 +999,19 @@
     <SUITE FILE_PATH="coverage/Leetcode$dividePlayers_2491.coverage" NAME="dividePlayers.2491 Coverage Results" MODIFIED="1734452270560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1739275040676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$countingBits_338.coverage" NAME="countingBits.338 Coverage Results" MODIFIED="1724911968366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$score_of_parenthesis.coverage" NAME="score_of_parenthesis Coverage Results" MODIFIED="1741375078446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$iceCreamBars.coverage" NAME="iceCreamBars Coverage Results" MODIFIED="1739547042980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$getLucky.coverage" NAME="getLucky Coverage Results" MODIFIED="1738361526279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$main.coverage" NAME="main Coverage Results" MODIFIED="1721038429867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$groupAnagrams_49.coverage" NAME="groupAnagrams.49 Coverage Results" MODIFIED="1738830263725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$threeSumClosest.coverage" NAME="threeSumClosest Coverage Results" MODIFIED="1739533812912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$countCharacters.coverage" NAME="countCharacters Coverage Results" MODIFIED="1738764175866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$removeDuplicates_80.coverage" NAME="removeDuplicates.80 Coverage Results" MODIFIED="1727169147262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$separateDigits.coverage" NAME="separateDigits Coverage Results" MODIFIED="1738360710130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$stringCompression_443.coverage" NAME="stringCompression.443 Coverage Results" MODIFIED="1725102647145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$maxSumSubmatrix.coverage" NAME="maxSumSubmatrix Coverage Results" MODIFIED="1734349854512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$isSubsequence_392.coverage" NAME="isSubsequence.392 Coverage Results" MODIFIED="1724748215239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$maxScore.coverage" NAME="maxScore Coverage Results" MODIFIED="1739560979658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$kidsWithCandies_1431.coverage" NAME="kidsWithCandies.1431 Coverage Results" MODIFIED="1723981294109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$maxRows.coverage" NAME="maxRows Coverage Results" MODIFIED="1720813235970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$fillingBookcaseShelves_1105.coverage" NAME="fillingBookcaseShelves.1105 Coverage Results" MODIFIED="1722935803129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -909,14 +1023,20 @@
     <SUITE FILE_PATH="coverage/Leetcode$boatsToSavePeople_881.coverage" NAME="boatsToSavePeople.881 Coverage Results" MODIFIED="1734452954632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$maxOperations_1679.coverage" NAME="maxOperations.1679 Coverage Results" MODIFIED="1725101040794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$minSubArrayLen_209.coverage" NAME="minSubArrayLen.209 Coverage Results" MODIFIED="1726921725499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$validParenthesis.coverage" NAME="validParenthesis Coverage Results" MODIFIED="1734265397094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$partitionLabels.coverage" NAME="partitionLabels Coverage Results" MODIFIED="1739446484613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$validParenthesis.coverage" NAME="validParenthesis Coverage Results" MODIFIED="1741185073731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$reverseWords_151.coverage" NAME="reverseWords.151 Coverage Results" MODIFIED="1724744793202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$recentCounter_933.coverage" NAME="recentCounter.933 Coverage Results" MODIFIED="1724864984311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$rotateArray.coverage" NAME="rotateArray Coverage Results" MODIFIED="1739375667979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Pow_50.coverage" NAME="Pow.50 Coverage Results" MODIFIED="1727165521360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$pivotIndex_724.coverage" NAME="pivotIndex.724 Coverage Results" MODIFIED="1734526942979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$separateBlackAndWhite.coverage" NAME="separateBlackAndWhite Coverage Results" MODIFIED="1739541890267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$singleNumber_136.coverage" NAME="singleNumber.136 Coverage Results" MODIFIED="1727115705286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$transpose.coverage" NAME="transpose Coverage Results" MODIFIED="1738852306567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$subarraysDivByK.coverage" NAME="subarraysDivByK Coverage Results" MODIFIED="1739807263760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$removeDuplicates.coverage" NAME="removeDuplicates Coverage Results" MODIFIED="1720874442789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$sum_of_subarray_minimums.coverage" NAME="sum_of_subarray_minimums Coverage Results" MODIFIED="1741515557581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1739523886487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$diagonalTraversal.coverage" NAME="diagonalTraversal Coverage Results" MODIFIED="1739034457522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$playground.coverage" NAME="playground Coverage Results" MODIFIED="1739201493658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$greatestCommonDivisorOfStrings_1071.coverage" NAME="greatestCommonDivisorOfStrings.1071 Coverage Results" MODIFIED="1723974251021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -1,0 +1,2 @@
+def deckRevealedIncreasing(deck):
+    return 
