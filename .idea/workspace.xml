@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solutions">
-      <change afterPath="$PROJECT_DIR$/Codeforces - A2SV G6 - Round 4/A. A+ Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - A2SV G6 - Round 4/B. Jo's Adventure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 171 Div 2/B. Books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 419 Div 2/B. Karen and Coffee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 636 Div 3/C. Alternating Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 794 Div 2/B. Odd Subarrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - Educational Codeforces Round 5/D. Longest k-Good Segment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - Educational Codeforces Round 69 Rated for Div 2/C. Array Splitting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/A. Segment with Small Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/B. Segment with Big Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/C. Number of Segments with Small Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/D. Number of Segments with Big Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces - ITMO Academy pilot course - Two Pointers Method - Step 2/E. Segments with Small Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deckRevealedIncreased.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iceCreamBars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intervalIntersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/judgeSquareSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lengthofUniqueSubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longestOnes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxScore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxSumRangeQuery.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maximumSubarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minCost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numSubarraysWithSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/partitionLabels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rotateArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/score_of_parenthesis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/separateBlackAndWhite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subarraysDivByK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum_of_subarray_minimums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threeSumClosest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validPalindromeII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.autocp" beforeDir="false" afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applyOperation.py" beforeDir="false" afterPath="$PROJECT_DIR$/applyOperation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkInclusion.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkInclusion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pankaceFlip.969.py" beforeDir="false" afterPath="$PROJECT_DIR$/pankaceFlip.969.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productExceptSelf.238.py" beforeDir="false" afterPath="$PROJECT_DIR$/productExceptSelf.238.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rangeSumQuery2D.304.py" beforeDir="false" afterPath="$PROJECT_DIR$/rangeSumQuery2D.304.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shiftingLetters.2381.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiftingLetters.2381.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplifyPath.71.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplifyPath.71.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validParenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/validParenthesis.py" afterDir="false" />
-    </list>
+    <list default="true" id="8a947150-e016-46a2-bc0d-a16a7f4ee05e" name="Changes" comment="leetcode solutions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -469,7 +424,7 @@
       <workItem from="1741461712359" duration="8222000" />
       <workItem from="1741587485115" duration="84000" />
       <workItem from="1741587576345" duration="1874000" />
-      <workItem from="1741592203728" duration="412000" />
+      <workItem from="1741592203728" duration="1045000" />
     </task>
     <task id="LOCAL-00015" summary="leetcode solutions #205">
       <option name="closed" value="true" />

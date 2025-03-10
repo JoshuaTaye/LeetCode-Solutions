@@ -6,7 +6,7 @@ def applyOps(nums):
         print(i)
         if nums[i] == 0:
             counter += 1
-        elif nums[i] == nums[i+1]:
+        elif nums[i] == nums[i + 1]:
             print(True)
             res.append(nums[i] * 2)
             counter += 1
@@ -21,4 +21,5 @@ def applyOps(nums):
         res.append(0)
     print(res)
 
-print(applyOps([1,2,2,1,1,0]))
+
+print(applyOps([1, 2, 2, 1, 1, 0]))
